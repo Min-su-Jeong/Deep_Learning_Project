@@ -1,7 +1,7 @@
 # Deep_Learning_Project
 딥러닝 과목을 수강하면서 개발한 프로젝트 Repository입니다.
 
-### Anomaly Detection for Determining Product Quaility of Injection Molding Machine Results
+### Anomaly Detection for Determining Product Quality of Injection Molding Machine Results
 > 사출기 결과물의 양불 판정을 위한 이상치 검출  
 
 <br/>
