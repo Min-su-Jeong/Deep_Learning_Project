@@ -105,4 +105,5 @@ GAAL은 k개의 하위 생성기와 판별기로 구성된다.
 ```
 
 ※ 이상치 검출에 대한 자세한 과정은 repository에 첨부된 <strong>『Anomaly Detection.ipynb』</strong> 파일 참조  
-※ <strong>데이터 파일은 보안 상의 이유로 외부 유출이 불가하여 업로드 X</strong>
+
+- 이후, [기업 연계형 프로젝트(Business_Linkage_Project)](https://github.com/Min-su-Jeong/Business_Linkage_Project)와 연계하여 프로젝트 진행
